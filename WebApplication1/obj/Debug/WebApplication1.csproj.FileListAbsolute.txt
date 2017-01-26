@@ -56,3 +56,5 @@ E:\InvestigationProjects\GitTest\WebApplication1\bin\Newtonsoft.Json.xml
 E:\InvestigationProjects\GitTest\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 E:\InvestigationProjects\GitTest\WebApplication1\obj\Debug\WebApplication1.dll
 E:\InvestigationProjects\GitTest\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\InvestigationProjects\GitTest\WebApplication1\obj\Debug\WebApplication1.Migrations.addeduser.resources
+E:\InvestigationProjects\GitTest\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.Cache
