@@ -9,7 +9,7 @@ using WebApplication1.Models;
 namespace WebApplication1 {
 	public class Context : DbContext {
 
-		public Context() : base("Def") {
+		public Context() : base("MYSQLCONNSTR_localdb") {
 			Configuration.LazyLoadingEnabled = true;
 		}
 
